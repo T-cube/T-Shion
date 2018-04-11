@@ -1,0 +1,28 @@
+platform :ios, '8.0'
+
+use_frameworks!
+
+target "T-Shion" do
+
+pod 'AFNetworking' 
+
+pod 'MJRefresh'
+
+pod 'SDWebImage'
+
+pod 'ReactiveObjC'
+
+pod 'MJExtension'
+
+pod 'Masonry'
+
+pod 'IQKeyboardManager'
+
+pod 'MBProgressHUD' 
+
+pod 'SocketRocket'
+
+pod 'Socket.IO-Client-Swift', '~> 11.0.0'
+
+end
+

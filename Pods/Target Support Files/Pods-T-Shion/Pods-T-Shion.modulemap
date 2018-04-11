@@ -1,0 +1,6 @@
+framework module Pods_T_Shion {
+  umbrella header "Pods-T-Shion-umbrella.h"
+
+  export *
+  module * { export * }
+}
